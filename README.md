@@ -1,2 +1,3 @@
 # Hello-World
-My first repository for following the tutorial
+This is my README file after I have edited it a bit.
+
